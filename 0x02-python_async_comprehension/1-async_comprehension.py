@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+'''Task 1 solution.
+'''
 from typing import List
 from importlib import import_module as im
 
