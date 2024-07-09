@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+'''Task2 solution.
+'''
 import asyncio
 import time
 from importlib import import_module as im
